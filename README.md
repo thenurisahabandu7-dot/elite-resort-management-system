@@ -36,6 +36,16 @@ A full-stack hotel booking and management system developed using **PHP & MySQL**
 
 ![Screenshot_30-3-2026_125747_eliteresort infinityfreeapp com](https://github.com/user-attachments/assets/a92a8e65-f6dc-4d71-b387-f8e3defe0413)
 <img width="1875" height="890" alt="Screenshot 2026-03-30 130007" src="https://github.com/user-attachments/assets/155a7ed8-d16c-4cd6-aad9-59061cc3f67f" />
+![Screenshot_30-3-2026_1388_eliteresort infinityfreeapp com](https://github.com/user-attachments/assets/667b0b27-b30b-4ef5-a567-ed14716f7583)
+![Screenshot_30-3-2026_131319_eliteresort infinityfreeapp com](https://github.com/user-attachments/assets/10cb64ee-56e9-44c8-84b1-911fb9e15a29)
+
+
+### 🛏 Room Details
+![Screenshot_30-3-2026_13189_eliteresort infinityfreeapp com](https://github.com/user-attachments/assets/58f1cc1d-2430-4f97-82f1-8e46118c525a)
+
+
+### 📊 Admin Dashboard
+![Screenshot_30-3-2026_131947_eliteresort infinityfreeapp com](https://github.com/user-attachments/assets/1c484c67-1bc6-482b-9f12-6a9745a6c3f6)
 
 ---
 
@@ -53,8 +63,7 @@ A full-stack hotel booking and management system developed using **PHP & MySQL**
 **Thenuri Sahabandu**
 
 ---
-
-## ⭐ Future Improvements
+##⭐ Future Improvements
 
 * Online payment integration
 * Room filtering & search
